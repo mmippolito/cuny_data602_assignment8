@@ -1,0 +1,5 @@
+The data-ink ratio quantifies the "useful" portion of a graphic by dividing the bare minimum amount of "ink" the graphic uses to illustrate the data to the total amount of "ink' in the graphic.
+
+sns.despine()
+
+sns.set_context

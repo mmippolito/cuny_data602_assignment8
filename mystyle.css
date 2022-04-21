@@ -1,0 +1,23 @@
+<style>
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th {
+  text-align: center;
+  padding: 8px;
+}
+
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #00D5D5}
+
+th {
+  background-color: #0000FF;
+  color: white;
+}
+</style>
